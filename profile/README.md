@@ -2,8 +2,9 @@
 
 The First AI-Native Data Platform For Data Teams
 
-- [Myriade](https://github.com/myriade-ai/myriade): our data platform for data teams
-- [Autochat](https://github.com/myriade-ai/autochat): open source AI agent library
-- [Autocode](https://github.com/myriade-ai/autocode): developper agent on top of Autochat
+- [myriade](https://github.com/myriade-ai/myriade): our data platform for data teams
+- [agentlys](https://github.com/myriade-ai/agentlys): open source lightweight AI agent library
+- [agentlys-tools](https://github.com/myriade-ai/agentlys-tools): repositories of shared tools for agentlys.
+- [agentlys-dev](https://github.com/myriade-ai/agentlys-dev): developper agent on top of agentlys & tools.
 
-Join-us contact @ myriade.ai.
+In France 🇫🇷 ? Join-us contact @ myriade.ai.
